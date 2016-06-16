@@ -1,5 +1,15 @@
 # xmonad-config
-xmonad-config is the [xmonad](http://xmonad.org/) configuration used by Vic Fryzel.
+xmonad-config is based on the [xmonad](http://xmonad.org/) configuration used by Vic Fryzel, but with some modifications.
+
+# Installation
+
+Clone this git repository with the following command:
+
+```bash
+git clone git@bitbucket.org:emfp/xmonad-config.git ~/.xmonad
+```
+
+Presto. You should now be able to start xmonad.
 
 
 ## Introduction
